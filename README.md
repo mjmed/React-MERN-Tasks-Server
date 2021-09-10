@@ -18,7 +18,7 @@ Incluye:
 - [**express-validator**](https://www.npmjs.com/package/express-validator): para agregar validaciones.
 - [**jsonwebtoken**](https://www.npmjs.com/package/jsonwebtoken).
 
-### Versión: 1.2.0
+### Versión: 1.3.0
 
 ### Notas:
 Comando para ejecutar la aplicación:
