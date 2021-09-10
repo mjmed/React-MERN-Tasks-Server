@@ -14,8 +14,11 @@ Incluye:
 - [**Express**](https://www.npmjs.com/package/uuid).
 - [**Mongoose**](https://www.npmjs.com/package/mongoose): ORM de Mongo.
 - [**dotenv**](https://www.npmjs.com/package/dotenv): para cargar las variables de entorno.
+- [**bcrypt.js**](www.npmjs.com/package/bcryptjs): para hashear contraseñas.
+- [**express-validator**](https://www.npmjs.com/package/express-validator): para agregar validaciones.
+- [**jsonwebtoken**](https://www.npmjs.com/package/jsonwebtoken).
 
-### Versión: 1.0.0
+### Versión: 1.1.0
 
 ### Notas:
 Comando para ejecutar la aplicación:
