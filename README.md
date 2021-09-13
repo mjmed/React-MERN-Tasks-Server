@@ -17,8 +17,9 @@ Incluye:
 - [**bcrypt.js**](www.npmjs.com/package/bcryptjs): para hashear contraseñas.
 - [**express-validator**](https://www.npmjs.com/package/express-validator): para agregar validaciones.
 - [**jsonwebtoken**](https://www.npmjs.com/package/jsonwebtoken).
+- [**cors**](https://www.npmjs.com/package/cors).
 
-### Versión: 1.4.0
+### Versión: 1.5.0
 
 ### Notas:
 Comando para ejecutar la aplicación:
