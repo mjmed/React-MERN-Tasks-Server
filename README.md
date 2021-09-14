@@ -19,7 +19,7 @@ Incluye:
 - [**jsonwebtoken**](https://www.npmjs.com/package/jsonwebtoken).
 - [**cors**](https://www.npmjs.com/package/cors).
 
-### Versión: 1.5.0
+### Versión: 1.6.0
 
 ### Notas:
 Comando para ejecutar la aplicación:
