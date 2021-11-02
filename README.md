@@ -3,7 +3,7 @@
 ## *React - La Guía Completa: Hooks Context Redux MERN + 15 Apps*
 
 Servidor Rest para la aplicación MERNTasks: Administrador de Proyectos y Tareas.
-Utiliza MonoDB como base de datos.
+Utiliza MongoDB como base de datos.
 
 Incluye:
 - Persistencia de datos con **MongoDB**.
